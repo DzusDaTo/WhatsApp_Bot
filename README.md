@@ -18,5 +18,5 @@ WhatsApp Reminder Bot — это бот на Django, который позвол
 ### 1. Клонирование репозитория  
 
 ```bash
-git clone https://github.com/DzusDaTo/whatsapp-reminder-bot.git
+git clone https://github.com/DzusDaTo/WhatsApp_Bot.git
 cd whatsapp_bot
